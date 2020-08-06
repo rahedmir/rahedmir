@@ -33,4 +33,4 @@
 <br />
 <br />
 
-<img src="/dino/dino.gif" align="left" alt="HTML5">
+<img src="/rahedmir/rahedmir.gif" align="left" alt="HTML5">
