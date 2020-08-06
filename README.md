@@ -33,4 +33,4 @@
 <br />
 <br />
 
-<img src="/rahedmir/rahedmir/dino.gif" align="left" alt="HTML5">
+<img src="https://github.com/rahedmir/rahedmir/blob/master/rahedmir/dino.gif" align="left" alt="HTML5">
