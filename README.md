@@ -30,6 +30,7 @@
 <a href="https://github.com/rahedmir?tab=repositories"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></a>
 <a href="https://github.com/rahedmir?tab=repositories"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" /></a>
 <a href="https://github.com/rahedmir?tab=repositories"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png"></a>
+<a href="https://github.com/rahedmir?tab=repositories"><img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></a>
 <br />
 <br />
 
