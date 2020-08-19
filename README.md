@@ -13,7 +13,7 @@
 
 <a href="https://rahedmir.github.io" targer="_blank"><img align="left" alt="rahedmir.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://www.youtube.com/channel/UCtLpmx-8qNG4m-6it076-7w" targer="_blank"><img align="left" alt="rahedmir | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
-<a href="https://aidmir.blogspot.com/" targer="_blank"><img align="left" alt="rahedmir | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" /></a>
+<a href="https://dev.to/rahedmir" targer="_blank"><img align="left" alt="rahedmir | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" /></a>
 <a href="https://twitter.com/rahed_mir" targer="_blank"><img align="left" alt="rahedmir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/mir-rahed-uddin-8466111a6" targer="_blank"><img align="left" alt="rahedmir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.facebook.com/mir.rahed.uddin.io" targer="_blank"><img align="left" alt="rahedmir | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
