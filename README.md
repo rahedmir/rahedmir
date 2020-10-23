@@ -4,8 +4,8 @@
 ### Hi there I'm Mir 👋
 ## I'm a Student, Programmer, Computer hobbyist!
 
-- 🌱 I’m currently learning ... Web development
-- 🥅 2020 Goals ... Become a full-stack web developer
+- 🌱 I’m currently learning ... Mobile App development
+- 🥅 2020 Goals ... Become a full-stack Flutter developer
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact ... I love to draw pictures
 
@@ -24,12 +24,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahedmir)](https://github.com/rahedmir?tab=repositories)
 
+<a href="https://github.com/rahedmir?tab=repositories"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" /></a>
+<a href="https://github.com/rahedmir?tab=repositories"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" /></a>
+
 <a href="https://github.com/rahedmir?tab=repositories"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://github.com/rahedmir?tab=repositories"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://github.com/rahedmir?tab=repositories"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></a>
 <a href="https://github.com/rahedmir?tab=repositories"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" /></a>
 <a href="https://github.com/rahedmir?tab=repositories"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png"></a>
-<a href="https://github.com/rahedmir?tab=repositories"><img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></a>
+
 <br />
 <br />
 
