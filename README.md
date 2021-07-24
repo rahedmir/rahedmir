@@ -12,7 +12,7 @@
 ### Connect with me:
 
 <a href="https://rahedmir.github.io" targer="_blank"><img align="left" alt="rahedmir.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="https://www.youtube.com/channel/rahedmir" targer="_blank"><img align="left" alt="rahedmir | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
+<a href="https://www.youtube.com/c/rahedmir" targer="_blank"><img align="left" alt="rahedmir | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
 <a href="https://dev.to/rahedmir" targer="_blank"><img align="left" alt="rahedmir | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" /></a>
 <a href="https://twitter.com/rahed_mir" targer="_blank"><img align="left" alt="rahedmir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/rahedmir" targer="_blank"><img align="left" alt="rahedmir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
