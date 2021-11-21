@@ -5,7 +5,7 @@
 ## I'm a Student, Programmer, Computer hobbyist!
 
 - 🌱 I’m currently learning ... Nothing 
-- 🥅 2021 Goals ... Become a developer (Perhaps)
+- 🥅 2021 Goals ... I don't know
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact ... I love to draw pictures
 
@@ -16,7 +16,7 @@
 <a href="https://dev.to/rahedmir" targer="_blank"><img align="left" alt="rahedmir | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" /></a>
 <a href="https://twitter.com/rahed_mir" targer="_blank"><img align="left" alt="rahedmir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/rahedmir" targer="_blank"><img align="left" alt="rahedmir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.facebook.com/rahedmir.io" targer="_blank"><img align="left" alt="rahedmir | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<a href="https://stackoverflow.com/users/11985522/mir-rahed-uddin" targer="_blank"><img align="left" alt="rahedmir | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
 
 <br />
 
