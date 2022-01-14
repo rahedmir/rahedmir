@@ -5,7 +5,7 @@
 ## I'm a Student, Programmer, Computer hobbyist!
 
 - 🌱 I’m currently learning ... Nothing 
-- 🥅 2021 Goals ... I don't know
+- 🥅 2022 Goals ... I don't know
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact ... I love to draw pictures
 
