@@ -2,17 +2,14 @@
 **rahedmir/rahedmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### Hi there I'm Mir 👋
-## I'm a Student, Programmer, Computer hobbyist! <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahedmir&label=Profile%20views&color=0e75b6&style=flat" alt="rahedmir" /> </p> <p align="left">
+## I'm a Student, Programmer, Computer hobbyist! <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahedmir&label=Profile%20views&color=0e75b6&style=flat" alt="Mir Rahed Uddin" /> </p>
 
 - 🌱 I’m currently learning ... C#
 - 🥅 2022 Goals ... I don't know
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact ... I love to draw pictures
   
- ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+ 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
