@@ -4,7 +4,7 @@
 ### Hi there I'm Mir 👋
 ## I'm a Student, Programmer, Computer hobbyist!
 
-- 🌱 I’m currently learning ... Nothing 
+- 🌱 I’m currently learning ... C#
 - 🥅 2022 Goals ... I don't know
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact ... I love to draw pictures
@@ -28,7 +28,6 @@
 
 <a href="https://github.com/rahedmir?tab=repositories"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" /></a>
 
-<a href="https://github.com/rahedmir?tab=repositories"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" /></a>
 
 <a href="https://github.com/rahedmir?tab=repositories"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /></a>
 
