@@ -3,7 +3,7 @@
 
 ### Hi there I'm Mir 👋
 ## I'm a Student, Programmer, Computer hobbyist! 
-- 🌱 I’m currently learning ... C#
+- 🌱 I’m currently learning ... MERN
 - 🥅 2022 Goals ... I don't know
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact ... I love to draw pictures
