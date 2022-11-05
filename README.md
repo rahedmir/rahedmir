@@ -13,8 +13,8 @@
 
 <p align="left">
   
-<a href="https://dev.to/rahedmir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a><a href="https://www.youtube.com/c/rahedmir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a></a><a href="https://stackoverflow.com/users/11985522/mir-rahed-uddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stackoverflow" height="30" width="40" /></a><a href="https://www.hackerrank.com/rahedmir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  
+<a href="https://dev.to/rahedmir" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a><a href="https://www.youtube.com/c/rahedmir" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a><a href="https://facebook.com/mir.dev.io" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /><a href="https://stackoverflow.com/users/11985522/mir-rahed-uddin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stackoverflow" height="30" width="40" /></a><a href="https://www.hackerrank.com/rahedmir" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+    
 </p>
 
 
@@ -27,4 +27,4 @@
   
  
 
-<img src="https://github.com/rahedmir/rahedmir/blob/master/rahedmir/dino.gif" align="left" alt="HTML5">
+<img src="https://github.com/rahedmir/rahedmir/blob/master/rahedmir/dino.gif" align="left" alt="Dino">
