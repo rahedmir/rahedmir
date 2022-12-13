@@ -11,7 +11,3 @@
   <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahedmir)](https://github.com/rahedmir?tab=repositories)
-  
- 
-
-<img src="https://github.com/rahedmir/rahedmir/blob/master/rahedmir/dino.gif" align="left" alt="Dino">
